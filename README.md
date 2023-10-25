@@ -10,6 +10,6 @@ hello
 ## Screenshots
 ![Example screenshot of a personalized name message](./img/Playername.png)
 
-![Example screenshot of an interactive player decision] (./Playername.png)
+![Example screenshot of an interactive player decision] (./img/Playername.png)
 
-Playername.png
+(Playername.png)
