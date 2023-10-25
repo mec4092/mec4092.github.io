@@ -1,5 +1,5 @@
 # mec4092.github.io
-Hello world
-This is a test
-Happy reading
-Happy
+## Screenshots
+![Example screenshot of a personalized name message](./img/Playername.png)
+
+![Example screenshot of an interactive player decision](./img/PlayerChoice.png)
