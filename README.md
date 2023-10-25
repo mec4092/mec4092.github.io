@@ -42,4 +42,4 @@ Room for improvement:
 ## Contact
 Created by Todd Chmielewski - feel free to contact me!
 
-<!—Disclaimer: this project is open source under CC BY 4.0 and created for research purposes, it is not an official product from George Mason University. -->
+<!—Disclaimer: this project is open source under CC BY 4.0 and created for research purposes; it is not an official product from George Mason University. 
