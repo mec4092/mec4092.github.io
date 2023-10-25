@@ -7,6 +7,10 @@ hello
 - A player name variable that personalizes name messages throughout the passages and a special message that only displays to a player who enters the name Elizabeth in honor of the Tudor queen.
 -User input macros where the player must decide what option to follow and deal with the consequences of the choice
 
+![Playername](https://github.com/mec4092/mec4092.github.io/assets/144192630/7a7c3fe2-a26e-48b8-93da-eb520bdf7edd)
+
+
+
 ## Screenshots
 ![Example screenshot of a personalized name message](./img/Playername.png)
 
