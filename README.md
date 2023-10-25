@@ -12,4 +12,4 @@ hello
 
 ![Example screenshot of an interactive player decision] (./img/Playername.png)
 
-(Playername.png)
+(./img/Playername.png)
